@@ -1,9 +1,9 @@
 {
-    "name": "minasm/php-html-parser",
+    "name": "ssitdikov/php-html-parser",
     "type": "library",
     "description": "An updated version of php-html-parser",
     "keywords": ["html", "dom", "parser"],
-    "homepage": "https://github.com/minasm/php-html-parser",
+    "homepage": "https://github.com/ssitdikov/php-html-parser",
     "license": "MIT",
     "authors": [
         {
